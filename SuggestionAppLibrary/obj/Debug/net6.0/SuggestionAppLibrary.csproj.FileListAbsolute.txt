@@ -1,0 +1,12 @@
+/Users/oluwoleadetiba/Projects/SuggestionApp/SuggestionAppLibrary/bin/Debug/net6.0/SuggestionAppLibrary.deps.json
+/Users/oluwoleadetiba/Projects/SuggestionApp/SuggestionAppLibrary/bin/Debug/net6.0/SuggestionAppLibrary.dll
+/Users/oluwoleadetiba/Projects/SuggestionApp/SuggestionAppLibrary/bin/Debug/net6.0/SuggestionAppLibrary.pdb
+/Users/oluwoleadetiba/Projects/SuggestionApp/SuggestionAppLibrary/obj/Debug/net6.0/SuggestionAppLibrary.csproj.AssemblyReference.cache
+/Users/oluwoleadetiba/Projects/SuggestionApp/SuggestionAppLibrary/obj/Debug/net6.0/SuggestionAppLibrary.GeneratedMSBuildEditorConfig.editorconfig
+/Users/oluwoleadetiba/Projects/SuggestionApp/SuggestionAppLibrary/obj/Debug/net6.0/SuggestionAppLibrary.AssemblyInfoInputs.cache
+/Users/oluwoleadetiba/Projects/SuggestionApp/SuggestionAppLibrary/obj/Debug/net6.0/SuggestionAppLibrary.AssemblyInfo.cs
+/Users/oluwoleadetiba/Projects/SuggestionApp/SuggestionAppLibrary/obj/Debug/net6.0/SuggestionAppLibrary.csproj.CoreCompileInputs.cache
+/Users/oluwoleadetiba/Projects/SuggestionApp/SuggestionAppLibrary/obj/Debug/net6.0/SuggestionAppLibrary.dll
+/Users/oluwoleadetiba/Projects/SuggestionApp/SuggestionAppLibrary/obj/Debug/net6.0/refint/SuggestionAppLibrary.dll
+/Users/oluwoleadetiba/Projects/SuggestionApp/SuggestionAppLibrary/obj/Debug/net6.0/SuggestionAppLibrary.pdb
+/Users/oluwoleadetiba/Projects/SuggestionApp/SuggestionAppLibrary/obj/Debug/net6.0/ref/SuggestionAppLibrary.dll

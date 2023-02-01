@@ -1,0 +1,147 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/oluwoleadetiba/Projects/SuggestionApp/SuggestionAppUI/SuggestionAppUI.csproj": {}
+  },
+  "projects": {
+    "/Users/oluwoleadetiba/Projects/SuggestionApp/SuggestionAppLibrary/SuggestionAppLibrary.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/oluwoleadetiba/Projects/SuggestionApp/SuggestionAppLibrary/SuggestionAppLibrary.csproj",
+        "projectName": "SuggestionAppLibrary",
+        "projectPath": "/Users/oluwoleadetiba/Projects/SuggestionApp/SuggestionAppLibrary/SuggestionAppLibrary.csproj",
+        "packagesPath": "/Users/oluwoleadetiba/.nuget/packages/",
+        "outputPath": "/Users/oluwoleadetiba/Projects/SuggestionApp/SuggestionAppLibrary/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/oluwoleadetiba/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "/usr/local/share/dotnet/library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.Extensions.Caching.Memory": {
+              "target": "Package",
+              "version": "[6.0.0, )"
+            },
+            "Microsoft.Extensions.Configuration.Abstractions": {
+              "target": "Package",
+              "version": "[6.0.0, )"
+            },
+            "MongoDB.Driver": {
+              "target": "Package",
+              "version": "[2.14.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.101/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/oluwoleadetiba/Projects/SuggestionApp/SuggestionAppUI/SuggestionAppUI.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/oluwoleadetiba/Projects/SuggestionApp/SuggestionAppUI/SuggestionAppUI.csproj",
+        "projectName": "SuggestionAppUI",
+        "projectPath": "/Users/oluwoleadetiba/Projects/SuggestionApp/SuggestionAppUI/SuggestionAppUI.csproj",
+        "packagesPath": "/Users/oluwoleadetiba/.nuget/packages/",
+        "outputPath": "/Users/oluwoleadetiba/Projects/SuggestionApp/SuggestionAppUI/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/oluwoleadetiba/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "/usr/local/share/dotnet/library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "/Users/oluwoleadetiba/Projects/SuggestionApp/SuggestionAppLibrary/SuggestionAppLibrary.csproj": {
+                "projectPath": "/Users/oluwoleadetiba/Projects/SuggestionApp/SuggestionAppLibrary/SuggestionAppLibrary.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.Identity.Web": {
+              "target": "Package",
+              "version": "[1.21.1, )"
+            },
+            "Microsoft.Identity.Web.UI": {
+              "target": "Package",
+              "version": "[1.21.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.101/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
